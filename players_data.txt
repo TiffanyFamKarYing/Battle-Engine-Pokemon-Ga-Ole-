@@ -1,5 +1,0 @@
-J
-Chikorita,Water,Poison,200,200,50,6
-Bulbasaur,Water,Psychic,180,180,55,4
-Chikorita,Grass,Fairy,160,160,58,4
----
