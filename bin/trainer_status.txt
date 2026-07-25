@@ -1,0 +1,13 @@
+🎖️ Trainer: J
+   Total Pokémon: 7
+   Strongest Pokémon: Chikorita (Power: 98)
+   Average Level: 17.43
+   Pokémon Caught:
+       1. Bulbasaur [Lv 25] Power: 97
+       2. Chikorita [Lv 24] Power: 98
+       3. Eevee [Lv 21] Power: 83
+       4. Jolteon [Lv 16] Power: 69
+       5. Mew [Lv 14] Power: 65
+       6. Mewtwo [Lv 12] Power: 48
+       7. Squirtle [Lv 10] Power: 51
+🗃️ ============================
